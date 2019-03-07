@@ -1,0 +1,10 @@
+h1{  
+	border:2px solid #521DE8;
+	background-color:#1EF6EE;
+	text-align: center;
+	z-index: 5;
+	top:20px;
+}
+p{
+	position:absolute;
+}
